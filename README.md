@@ -1,0 +1,1 @@
+"# Habits App - WebPlataforma para controle de Habitos, desenvolvida durante o evento NextLevelWeek Setup da RocketSeat na trilha Ignite, utilizando React, React Native, Node, Typescript e as linguagens de base como HTML, CSS e JS" 
