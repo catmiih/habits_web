@@ -3,7 +3,7 @@ import { Header } from './components/header';
 import { SummaryTable } from './components/summaryTable';
 
 import './styles/global.css';
-//import { Habit } from "./components/habit"
+import './lib/dayjs'
 
 export function App() {
   return (
