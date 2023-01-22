@@ -13,7 +13,7 @@ export function Header() {
             <Dialog.Root>
                 <Dialog.Trigger
                     type='button'
-                    className='border border-violet-500 font-semibold rounded-lg px-6 py-4 flex items-center gap-3 hover:border-violet-300'
+                    className='border border-violet-500 font-semibold rounded-lg px-6 py-4 flex items-center gap-3 hover:border-violet-300 transition-all'
                 >
                     <Plus size={20} className="text-violet-500" />
                     Novo hábito
@@ -26,7 +26,7 @@ export function Header() {
                             <X size={24} aria-label="Fechar" />
                         </Dialog.Close>
 
-                        <Dialog.Title className='text-3xl leading-tight font-extrabold'>
+                        <Dialog.Title className='text-3xl leading-tight font-extrabold '>
                             Criar Hábito
                         </Dialog.Title>
 
